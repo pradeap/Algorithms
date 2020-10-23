@@ -1,2 +1,2 @@
 # Algorithms
- Examples for ML Algorithms
+ML Algorithms
